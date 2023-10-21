@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Parra</h1>
 <h3 align="center">I am a confident, creative and data lover engineer with experience in the manufacturing field, working as Production engineering lead and program manager. I have proven team leadership, team player, communication and problem solving skills. I am currently looking for a new challenge, in a Data roll to work in a dynamic environment for a leading innovated company.</h3>
 
-- 🔭 I’m currently working on [Icook](https://icookmvp.streamlit.app/)
+- 🔭 I’m currently working on [Sirt](https://www.sirt.com/)
 
 - 🌱 I’m currently learning **Pytorch and Azure**
 
